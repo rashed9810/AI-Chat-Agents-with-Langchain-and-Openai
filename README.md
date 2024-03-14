@@ -1,4 +1,4 @@
-** Semantic Search Chatbot with Langchain and OpenAI
+## Semantic Search Chatbot with Langchain and OpenAI
 
 **Description:**
 
